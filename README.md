@@ -1,4 +1,4 @@
-# UMN Fintech -- Amazon Web Services
+# UMN Fintech HW 13 -- Amazon Web Services
 ## The solutions can be found in the Resources and Solutions folder:
 ### Crypto Clustering: https://github.com/farmerplants/AWS_HW/blob/main/Resources%20and%20Solutions/crypto_clustering.ipynb
 
